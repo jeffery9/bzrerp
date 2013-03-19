@@ -11,7 +11,8 @@
     'depends': ['base'],
     'data': ['bzr_base_view.xml'],
     'installable': True,
-    'auto_install': True,
+    #'auto_install': True, # 不建议自动安装
+    'auto_install': False,
     'images': [],
 }
 
