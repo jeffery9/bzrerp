@@ -120,11 +120,11 @@ How——如何让bzrERP持续健康发展
 
 2.clone到本地
 
-    bzr clone https://github.com/你的名字/bzrerp.git
+    git clone https://github.com/你的名字/bzrerp.git
  
-3.增加远程分支（也就是你fork那个人的分支）名为osbzr（这个名字任意）到你本地。
+3.增加远程分支（也就是你fork那个人的分支）名为bzrerp（这个名字任意）到你本地。
 
-    git remote add osbzr https://github.com/osbzr/bzrerp.git
+    git remote add bzrerp https://github.com/osbzr/bzrerp.git
     
 环境就准备好了
 
